@@ -121,10 +121,8 @@ Final KPI totals (headcount, exits, attrition rate, training cost) were independ
 3. **Demographics & Diversity** — gender, race, age and marital mix, with attrition rate by group
 4. **Performance, Engagement & Training** — performance ratings, survey scores, training outcomes and cost
 
-**Screenshots** (Dashboard)
-```
-/screenshots
-  <img width="1156" height="632" alt="Executive Overview" src="https://github.com/user-attachments/assets/8c632b0a-184f-4f1d-a1f7-5cf52dcfa534" />
+screenshot(Dashboard):::
+ <img width="1156" height="632" alt="Executive Overview" src="https://github.com/user-attachments/assets/8c632b0a-184f-4f1d-a1f7-5cf52dcfa534" />
 
   <img width="1152" height="626" alt="Attrition Deep-Dive" src="https://github.com/user-attachments/assets/34c7f11a-90fc-46d1-ba52-eb83b6aadf96" />
 
@@ -132,7 +130,7 @@ Final KPI totals (headcount, exits, attrition rate, training cost) were independ
 
   <img width="1155" height="630" alt="Performance,Engagement   Training" src="https://github.com/user-attachments/assets/f2204b44-9841-4a62-8394-188d686ee5f3" />
 
-```
+
 
 ## KPI Summary
 
